@@ -16,22 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Gruppierung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wirtschaft",
-                "Kommunale Einrichtung",
-                "Private Haushalte",
-                "Verkehr",
-                ""
-              ]
-            },
-            "title": "Gruppierung"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

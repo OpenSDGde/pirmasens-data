@@ -1,3 +1,5 @@
-Year,Value
-2019,1
-2020,2
+Year,Geschlecht,Value
+2019,w,1.4
+2020,m,2.3
+2021,w,3.0
+2022,m,5.0

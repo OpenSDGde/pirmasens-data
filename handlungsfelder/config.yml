@@ -1,58 +1,49 @@
 display_as: tab # tab/tile
 
-frontpage_handlungsfelder:  
-  - title: Wirtschaft
-    slug: wirtschaft
+frontpage_handlungsfelder:
+  - title:  Globale Verantwortung und nachhaltiger Konsum
+    slug: verantwortung
     leitsatz: |
-      Wir schaffen die Rahmenbedingungen für eine nachhaltige Entwicklung der Wirtschaft. 
-      Als vernetzte, zukunftsorientierte und attraktive Stadt sichern wir mit technologischem 
-      und gesellschaftlichem Fortschritt den Wohlstand für alle Menschen in Ingolstadt.
-    hf-goals: "4,5,8,9,10,11,12,13"
+      Im Jahr 2030 wird eine Kultur des nachhaltigen Konsums gelebt. Die öffentliche Beschaffung wird nach sozialen und ökologischen Kriterien ausgerichtet. Die Stadtbevölkerung wird umfassend über nachhaltigen Konsum informiert und auch Schulen greifen das Thema auf. Die Stadt Pirmasens vertieft ihre internationalen Partnerschaften und setzt sich für globales Engagement ein. Damit leisten wir als Stadt Pirmasens einen Beitrag zu den Globalen Nachhaltigkeitszielen der Agenda 2030, insbesondere zu den Zielen: SDG 4, SDG 11, SDG 12 sowie SDG 17.
+    hf-goals: "4,11,12,17"
     hf-color: '#007ebe'
-    icon: "fa-gear"
+    icon: "fa-globe"
 
 
-  - title: Umwelt
+  - title: Klima- und Umweltschutz
     slug: umwelt
     leitsatz: |
-      Wir fördern Klimaneutralität und Umweltschutz auch durch technische und digitale Lösungen. 
-      Ökologische und regionale Landwirtschaft sowie der Erhalt der Biodiversität werden unterstützt. 
-      Wir schaffen Bewusstsein für den Erhalt unserer natürlichen Lebensgrundlagen und sichern diese durch ressourcenschonendes Planen und Handeln.
-    hf-goals: "2,6,7,9,11,12,13,14,15"
+      Pirmasens leistet bis zum Jahr 2030 einen wichtigen Beitrag zum Klimaschutz indem der Anteil erneuerbarer Energien im Energieverbrauch erhöht und die Energieffizienz kommunaler Gebäude verbessert wird um schlussendlich eine klimaneutrale Stadt zu werden. Die Biodiversität und die Klimaresilienz wird kontinuierlich gefördert um nachkommenden Generationen ein lebenswertes Umfeld für ihre zukünftige Entwicklung zu ermöglichen. Damit leisten wir als Stadt Pirmasens einen Beitrag zu den Globalen Nachhaltigkeitszielen der Agenda 2030, insbesondere zu den Zielen: SDG 7, SDG 11, SDG 13 sowie SDG 15.
+    hf-goals: "7,11,13,15"
     hf-color: '#65b448'
-    icon: "fa-solar-panel"
+    icon: "fa-pagelines"
 
 
-  - title: Leben
-    slug: leben
+  - title: Stadt für alle
+    slug: stadt
     leitsatz: |
-        Wir ermöglichen gesundes und sicheres Miteinander, Wohnen und Arbeiten für alle Menschen in Ingolstadt. 
-        Wir planen unsere Stadt mit ihren öffentlichen Räumen nachhaltig, generationsgerecht und inklusiv. 
-        Wir sichern bedarfsgerechten Wohnbau, soziale Einrichtungen und eine gute Infrastruktur.
-    hf-goals: "2,3,6,9,10,11,12,13,15,16"
+        Pirmasens ist eine Stadt für alle: Für Junge und Alte, für Schüler und Berufstätige, für Alleinerziehende und Familien, für Erwerbstätige und Erwerbslose, für Gesunde und Kranke, für Singles und Beziehungsmenschen und viele andere mehr. Hilfsbedürftige und sich in sozialer Schieflage befindliche Menschen werden gefördert und in das gesellschaftliche Leben integriert. Verschieden Projekten bilden Familien und jungen Menschen Zugang zu Bildung und Freizeitaktivitäten um ihnen die Chance auf ein erfülltes und erfolgreiches Leben zu ermöglichen. Damit leisten wir als Stadt Pirmasens einen Beitrag zu den Globalen Nachhaltigkeitszielen der Agenda 2030, insbesondere zu den Zielen: SDG 4 und SDG 10.
+    hf-goals: "1,4,10"
     hf-color: '#f8b715'
-    icon: "fa-book"
+    icon: "fa-restroom"
 
 
-  - title: Vielfalt
-    slug: vielfalt
+  - title: Nachhaltiger Standort
+    slug: standort
     leitsatz: |
-      Wir arbeiten aktiv an einer Stadtgesellschaft, die für Vielfalt und Respekt steht. 
-      Unser Ziel sind Teilhabe und Chancengleichheit aller. 
-      Wir fördern bürgerschaftliches Engagement für ein gutes Miteinander – lokal und global.
-    hf-goals: "1,2,3,4,5,6,10,11,15,16,17"
+      Pirmasens erfindet sich neu. Die Stadt zeichnet sich durch eine hohe Lebensqualität aus und bietet neben klassischen Wohnformen Raum für neue, innovative Ansätze des Zusammenlebens. Studierende und junge Unternehmen finden ein anregendes und unterstützendes Umfeld. Die Stadt achtet darauf die kommunalen Werte und Finanzen generationsgerecht zu pflegen und zu erhalten. Die Qualitäten von Pirmasens als attraktive, innovative und klimaneutrale Mittelstadt am Rande des Biosphärenreservats Pfälzerwald werden vor Ort gelebt und überregional bekannt gemacht. Damit leisten wir als Stadt Pirmasens einen Beitrag zu den Globalen Nachhaltigkeitszielen der Agenda 2030, insbesondere zu den Zielen: SDG 4, SDG 8, SDG 9, SDG 11 und SDG 16.
+    hf-goals: "4,8,9,11,16"
     hf-color: '#ed6d29'
-    icon: "fa-handshake"
+    icon: "fa-seedling"
 
 
-  - title: Bildung
-    slug: bildung
+  - title: Nachhaltige Mobilität
+    slug: monilitaet
     leitsatz: |
-        Wir fördern Bildung, Kunst und Kultur für alle Menschen in unserer Stadt. 
-        Besondere Aufmerksamkeit verdienen dabei Kreativität und freie individuelle Entfaltung und Entwicklung. 
-    hf-goals: "4,9,10,11,16"
+        Alle Teile von Pirmasens sind 2030 problemlos mit öffentlichen Verkehrsmitteln, mit dem Rad oder zu Fuß zu erreichen. Der KFZ-Verkehr wurde auf das Nötigste reduziert, wodurch Umweltbelastungen gesenkt und Gefahren für Menschen reduziert werden konnten. In Verbindung mit sicheren, inklusiven und attraktiven öffentlichen Räumen ist die Lebensqualität aller Bürgerinnen und Bürger erheblich gesteigert worden. Damit leisten wir als Stadt Pirmasens einen Beitrag zu den Globalen Nachhaltigkeitszielen der Agenda 2030, insbesondere zu den Zielen SDG 11 und 13
+    hf-goals: "11,13"
     hf-color: '#05afda'
-    icon: "fa-home"
+    icon: "fa-van-shuttle"
 
 
 frontpage_handlungsfelder_title:

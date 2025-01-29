@@ -1,3 +1,11 @@
-Year,Value
-2019,1
-2020,2
+Year,Anzahl,Value
+2019,umgerüsteter Fahrzeuge,0
+2020,umgerüsteter Fahrzeuge,0
+2021,umgerüsteter Fahrzeuge,0
+2022,umgerüsteter Fahrzeuge,0
+2023,umgerüsteter Fahrzeuge,0
+2019,neu beschaffter Fahrzeuge mit alternativem Antrieb,0
+2020,neu beschaffter Fahrzeuge mit alternativem Antrieb,0
+2021,neu beschaffter Fahrzeuge mit alternativem Antrieb,1
+2022,neu beschaffter Fahrzeuge mit alternativem Antrieb,2
+2023,neu beschaffter Fahrzeuge mit alternativem Antrieb,10

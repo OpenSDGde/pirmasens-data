@@ -1,3 +1,11 @@
-Year,Value
-2019,1
-2020,2
+Year,Anzahl,Value
+2019,an Angeboten,4
+2020,an Angeboten,4
+2021,an Angeboten,4
+2022,an Angeboten,4
+2023,an Angeboten,4
+2019,an Teilnehmenden,20
+2020,an Teilnehmenden,45
+2021,an Teilnehmenden,30
+2022,an Teilnehmenden,75
+2023,an Teilnehmenden,100

@@ -1,3 +1,6 @@
-Year,Value
-2019,1
-2020,2
+Year,Anzahl,Value
+2019,Teilnehmer,30
+2020,Teilnehmer,50
+2021,Teilnehmer,60
+2022,Teilnehmer,75
+2023,Teilnehmer,80

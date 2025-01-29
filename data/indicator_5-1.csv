@@ -1,3 +1,11 @@
-Year,Value
-2019,1
-2020,2
+Year,Anzahl,Value
+2019,Beratungen,5
+2020,Beratungen,10
+2021,Beratungen,20
+2022,Beratungen,25
+2023,Beratungen,30
+2019,hervorgegangener Gründungen,3
+2020,hervorgegangener Gründungen,5
+2021,hervorgegangener Gründungen,5
+2022,hervorgegangener Gründungen,10
+2023,hervorgegangener Gründungen,12

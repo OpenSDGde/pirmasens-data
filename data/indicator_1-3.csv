@@ -1,3 +1,9 @@
-Year,Value
-2019,1
-2020,2
+Year,Anzahl,Value
+2020,Anzahl der neu eingesetzten Streetworker:innen, 1
+2021,Anzahl der neu eingesetzten Streetworker:innen, 1
+2022,Anzahl der neu eingesetzten Streetworker:innen, 2
+2023,Anzahl der neu eingesetzten Streetworker:innen, 3
+2020,Anzahl der Einsatzorte,10
+2021,Anzahl der Einsatzorte,15
+2022,Anzahl der Einsatzorte,18
+2023,Anzahl der Einsatzorte,25

@@ -1,3 +1,11 @@
-Year,Value
-2019,1
-2020,2
+Year,Anzahl,Value
+2019,eingeführter dauerhafter und temporärer Zonen,0
+2020,eingeführter dauerhafter und temporärer Zonen,0
+2021,eingeführter dauerhafter und temporärer Zonen,10
+2022,eingeführter dauerhafter und temporärer Zonen,10
+2023,eingeführter dauerhafter und temporärer Zonen,12
+2019,Strecke mit neuen Geschwindigkeitsbegrenzungen,0
+2020,Strecke mit neuen Geschwindigkeitsbegrenzungen,0
+2021,Strecke mit neuen Geschwindigkeitsbegrenzungen,8
+2022,Strecke mit neuen Geschwindigkeitsbegrenzungen,10
+2023,Strecke mit neuen Geschwindigkeitsbegrenzungen,10

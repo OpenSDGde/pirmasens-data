@@ -1,3 +1,11 @@
-Year,Value
-2019,1
-2020,2
+Year,Anzahl,Value
+2019,an Treffen,0
+2020,an Treffen,0
+2021,an Treffen,1
+2022,an Treffen,1
+2023,an Treffen,1
+2019,an beteiligten Instutitionen,0
+2020,an beteiligten Instutitionen,0
+2021,an beteiligten Instutitionen,10
+2022,an beteiligten Instutitionen,15
+2023,an beteiligten Instutitionen,20

@@ -1,3 +1,11 @@
-Year,Value
-2019,1
-2020,2
+Year,Anzahl,Value
+2019,durchgeführter Beratungen und Veranstaltungen,10
+2020,durchgeführter Beratungen und Veranstaltungen,50
+2021,durchgeführter Beratungen und Veranstaltungen,50
+2022,durchgeführter Beratungen und Veranstaltungen,75
+2023,durchgeführter Beratungen und Veranstaltungen,100
+2019,erreichter Bürger:innen,100
+2020,erreichter Bürger:innen,250
+2021,erreichter Bürger:innen,300
+2022,erreichter Bürger:innen,750
+2023,erreichter Bürger:innen,1000

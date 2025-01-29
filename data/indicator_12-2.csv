@@ -1,3 +1,11 @@
-Year,Value
-2019,1
-2020,2
+Year,Anzahl,Value
+2019,in Anspruch genommener Beratungen,500
+2020,in Anspruch genommener Beratungen,750
+2021,in Anspruch genommener Beratungen,1000
+2022,in Anspruch genommener Beratungen,1500
+2023,in Anspruch genommener Beratungen,2500
+2019,Info-Materialien,40000
+2020,Info-Materialien,40000
+2021,Info-Materialien,40000
+2022,Info-Materialien,40000
+2023,Info-Materialien,40000

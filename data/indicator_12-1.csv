@@ -1,3 +1,11 @@
-Year,Value
-2019,1
-2020,2
+Year,Anzahl,Value
+2019,der Events,1
+2020,der Events,1
+2021,der Events,1
+2022,der Events,1
+2023,der Events,1
+2019,beteiligter Unternehmen,10
+2020,beteiligter Unternehmen,15
+2021,beteiligter Unternehmen,15
+2022,beteiligter Unternehmen,20
+2023,beteiligter Unternehmen,25

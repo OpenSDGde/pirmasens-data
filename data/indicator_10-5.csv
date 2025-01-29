@@ -1,3 +1,11 @@
-Year,Value
-2019,1
-2020,2
+Year,Anzahl,Value
+2019,zusätzlicher Betreuungsangebote,0
+2020,zusätzlicher Betreuungsangebote,0
+2021,zusätzlicher Betreuungsangebote,10
+2022,zusätzlicher Betreuungsangebote,15
+2023,zusätzlicher Betreuungsangebote,18
+2019,erreichter Personen,0
+2020,erreichter Personen,0
+2021,erreichter Personen,500
+2022,erreichter Personen,510
+2023,erreichter Personen,520

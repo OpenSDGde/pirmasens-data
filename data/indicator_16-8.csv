@@ -1,3 +1,11 @@
-Year,Value
-2019,1
-2020,2
+Year,Anzahl,Value
+2019,Maßnahmen,3
+2020,Maßnahmen,5
+2021,Maßnahmen,10
+2022,Maßnahmen,15
+2023,Maßnahmen,20
+2019,erreichte Personen,10
+2020,erreichte Personen,12
+2021,erreichte Personen,25
+2022,erreichte Personen,30
+2023,erreichte Personen,35
